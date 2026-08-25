@@ -1,12 +1,13 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        bitset<101> mask;
+        unsigned __int128 mask = 0;
         for(auto &num : nums) {
-            mask.set(num);
+            mask = mask | ((unsigned __int128)1 << num);
         }
+
         int m = k;
-        while(m <= 100 && mask.test(m)) {
+        while(m <= 100 && ((mask >> m) & (unsigned __int128)1)) {
             m = m + k;
         }
         return m;
