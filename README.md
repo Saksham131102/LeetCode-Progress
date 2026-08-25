@@ -4,9 +4,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
