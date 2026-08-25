@@ -1,13 +1,14 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int> st;
-        for(const int &num : nums)
-            st.insert(num);
-        for(int i=1;;i++) {
-            if(!st.count(k * i))
-                return k * i;
+        bitset<101> mask;
+        for(auto &num : nums) {
+            mask.set(num);
         }
-        return -1;
+        int m = k;
+        while(m <= 100 && mask.test(m)) {
+            m = m + k;
+        }
+        return m;
     }
 };
