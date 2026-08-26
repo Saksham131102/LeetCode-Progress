@@ -32,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
