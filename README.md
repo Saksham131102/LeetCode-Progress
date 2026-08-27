@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
+| [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -60,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Saksham131102/LeetCode-Progress/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0189-rotate-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
