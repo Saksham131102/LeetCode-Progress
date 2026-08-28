@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Saksham131102/LeetCode-Progress/tree/master/1768-merge-strings-alternately) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
