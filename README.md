@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
