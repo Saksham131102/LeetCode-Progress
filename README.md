@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0680-valid-palindrome-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
