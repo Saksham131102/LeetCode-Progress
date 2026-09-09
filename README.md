@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0622-design-circular-queue) |
 | [0881-boats-to-save-people](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0881-boats-to-save-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Saksham131102/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saksham131102/LeetCode-Progress/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0622-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
