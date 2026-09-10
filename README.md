@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0622-design-circular-queue) |
 ## Design
@@ -140,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
