@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0209-minimum-size-subarray-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0229-majority-element-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
