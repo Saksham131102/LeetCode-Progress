@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Saksham131102/LeetCode-Progress/tree/master/1768-merge-strings-alternately) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0572-subtree-of-another-tree) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0572-subtree-of-another-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Saksham131102/LeetCode-Progress/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0572-subtree-of-another-tree) |
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saksham131102/LeetCode-Progress/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
